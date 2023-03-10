@@ -1,22 +1,24 @@
-# rumor-detection
+# GLAN Model
 
-## Models
-There are real-time updated environment profiles and related files for PLAN model, GLAN model and PPA model.
+## CUDA
+pip3 install torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cu116         (cuda116)
 
-GLAN model: https://github.com/chunyuanY/RumorDetection
+## Env
+For specific environments, see the .yaml file
 
-PLAN model: https://github.com/serenaklm/rumor_detection
-
-PPA model: https://github.com/zperfet/PathFakeGit
-
-## Initial dataset
-
-Twitter15/16 Datasets: https://www.dropbox.com/s/7ewzdrbelpmrnxu/rumdetect2017.zip?dl=0
-
-PHEME datasets: https://figshare.com/articles/dataset/PHEME_dataset_for_Rumour_Detection_and_Veracity_Classification/6392078
-
-covid weibo dataset: https://github.com/saa51/Covid-19-weibo-rumor-dataset
-
-## Real-time updated tables for Ame's rumor research
-
-https://docs.google.com/document/d/1Y4V6_wrUUMPtHO0JWvLlPT340NoeNnr0zs1l1523zI/edit
+ame@ame-linux
+-------------
+OS: Ubuntu 20.04.5 LTS ×86_64
+Kernel: 5.15.0-67-generic
+Uptime: 2 hours, 56 mins Packages: 1761 (dpkg), 10 (snap)
+Shell: bash 5.0.17
+Resolution: 2560×1440
+DE: GNOME
+WM: Mutter
+WM Theme: Adwaita
+Theme: Yaru [GTK2/3]
+Icons: Yaru [GTK2/3]
+Terminal: gnome-terminal
+CPU: AMD Ryzen 7 5800X (16) @ 3.800G 
+GPU: NVIDIA GeForce RTX 3080
+Мемогу: 11287МіВ / 32004MiB
