@@ -6,7 +6,7 @@ pip3 install torch torchvision torchaudio --extra-index-url https://download.pyt
 ## Env
 For specific environments, see the .yaml file
 
-ame@ame-linux <br />
+<br> ame@ame-linux <br/>
 
 -------------
 
