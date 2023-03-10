@@ -20,7 +20,9 @@ covid weibo dataset: https://github.com/saa51/Covid-19-weibo-rumor-dataset
 ## Eassy
 
 **GLAN**: https://arxiv.org/abs/1909.04465
+
 **PLAN**: https://arxiv.org/abs/2001.10667
+
 **PPA**: https://dl.acm.org/doi/abs/10.1016/j.neucom.2021.06.062
 
 ## Real-time updated tables for Ame's rumor research
