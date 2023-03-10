@@ -6,34 +6,33 @@ pip3 install torch torchvision torchaudio --extra-index-url https://download.pyt
 ## Env
 For specific environments, see the .yaml file
 
-<br> ame@ame-linux <br/>
-
 -------------
+**ame@ame-linux**
 
-OS: Ubuntu 20.04.5 LTS ×86_64
+**OS**: Ubuntu 20.04.5 LTS ×86_64
 
-Kernel: 5.15.0-67-generic
+**Kernel**: 5.15.0-67-generic
 
-Uptime: 2 hours, 56 mins Packages: 1761 (dpkg), 10 (snap)
+**Uptime**: 2 hours, 56 mins Packages: 1761 (dpkg), 10 (snap)
 
-Shell: bash 5.0.17
+**Shell**: bash 5.0.17
 
-Resolution: 2560×1440
+**Resolution**: 2560×1440
 
-DE: GNOME
+**DE**: GNOME
 
-WM: Mutter
+**WM**: Mutter
 
-WM Theme: Adwaita
+**WM** Theme: Adwaita
 
-Theme: Yaru [GTK2/3]
+**Theme**: Yaru [GTK2/3]
 
-Icons: Yaru [GTK2/3]
+**Icons**: Yaru [GTK2/3]
 
-Terminal: gnome-terminal
+**Terminal**: gnome-terminal
 
-CPU: AMD Ryzen 7 5800X (16) @ 3.800G 
+**CPU**: AMD Ryzen 7 5800X (16) @ 3.800G 
 
-GPU: NVIDIA GeForce RTX 3080
+**GPU**: NVIDIA GeForce RTX 3080
 
-Мемогу: 11287МіВ / 32004MiB
+**Мемогу**: 11287МіВ / 32004MiB
