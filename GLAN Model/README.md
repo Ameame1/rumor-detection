@@ -1,13 +1,43 @@
 # GLAN Model
 
+## Follow each of these steps to check your configuration
+
 ## CUDA
+pip install torch
+
 pip3 install torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cu116         (cuda116)
+
+pip install torch_scatter-2.0.9-cp39-cp39-linux_x86_64.whl 
+
+pip install torch_sparse-0.6.16+pt113cu116-cp39-cp39-linux_x86_64.whl
+
+pip install torch_cluster-1.6.0+pt113cu116-cp39-cp39-linux_x86_64.whl
+
+pip install torch_spline_conv-1.2.1+pt113cu116-cp39-cp39-linux_x86_64.whl
+
+pip install torch-geometric==1.7.2
+
+*All installation packages can be found in the folder Env*
+## Check cuda is available.
+import torch
+
+print(torch._version_)
+
+print(torch.cuda.is_available())
+
+1.13.1+cu116
+
+True
+
+*If the output is used above, it proves that CUDA is available*
 
 ## Env
 For specific environments, see the .yaml file
 
 -------------
 **ame@ame-linux**
+
+**Nvidia Driver**: 470
 
 **OS**: Ubuntu 20.04.5 LTS ×86_64
 
