@@ -63,8 +63,6 @@ https://www.dropbox.com/sh/w3bh1crt6estijo/AAD9p5m5DceM0z63JOzFV7fxa?dl=0
 
 glove word vector: https://drive.google.com/file/d/19t9-sihELSk0Asf-EFAOCb9WfyPgtRMu/view
 
-## Essay
-
 ## Common error reports
 
 error: "can't find model 'en'" it says to use its full name 'en_core_web_sm' but then i get the error: "cant find model 'en_core_web_sm' it doesnt seem to be a python package or a valid path to a data directory"
