@@ -3,6 +3,7 @@
 ## Follow each of these steps to check your configuration
 
 ## Dataset
+The data set used by the author uses the Baidu network disk download tool, the download speed is slow, and it is not recommended to download directly.
 
 https://drive.google.com/file/d/1wds1SVweGzKOfx-vaw15ouIbSLsOva_v/view?usp=share_link
 
