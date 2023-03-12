@@ -7,6 +7,13 @@ The data set used by the author uses the Baidu network disk download tool, the d
 
 https://drive.google.com/file/d/1wds1SVweGzKOfx-vaw15ouIbSLsOva_v/view?usp=share_link
 
+## Important documents
+`MainResponseWAE4Early.py`, run file for `Twitter15` and `Twitter16` dataset
+
+`WeiboMainResponseWAE4Early.py` run file for `Weibo` dataset
+
+`Pheme5MainResponseWAE4Early.py` run file for `PHEME` dataset
+
 ## Common error reports
 1. typeerror: vampire.forward: return type `none` is not a `typing.dict[str, torch.tensor]`.
 
