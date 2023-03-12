@@ -36,3 +36,39 @@ https://drive.google.com/file/d/1wds1SVweGzKOfx-vaw15ouIbSLsOva_v/view?usp=share
      For example, the following error will appear: ERROR: cached-path 1.1.6 has requirement filelock<3.9,>=3.4, but you'll have filelock 3.0.12 which is incompatible. ERROR: cached-path 1.1.6 has requirement huggingface-hub<0.11.0,>=0.8.1, but you'll have huggingface-hub 0.13.1 which is incompatible. Similar to this, you need to choose the right version to match. 
  
      Details can be found in the `https://github.com/allenai/allennlp-models`
+
+## Env
+For specific environments, see the .yaml file
+
+-------------
+**ame@ame-linux**
+
+**Nvidia Driver**: 470
+
+**OS**: Ubuntu 20.04.5 LTS ×86_64
+
+**Kernel**: 5.15.0-67-generic
+
+**Uptime**: 2 hours, 56 mins Packages: 1761 (dpkg), 10 (snap)
+
+**Shell**: bash 5.0.17
+
+**Resolution**: 2560×1440
+
+**DE**: GNOME
+
+**WM**: Mutter
+
+**WM** Theme: Adwaita
+
+**Theme**: Yaru [GTK2/3]
+
+**Icons**: Yaru [GTK2/3]
+
+**Terminal**: gnome-terminal
+
+**CPU**: AMD Ryzen 7 5800X (16) @ 3.800G 
+
+**GPU**: NVIDIA GeForce RTX 3080
+
+**Мемогу**: 11287МіВ / 32004MiB
