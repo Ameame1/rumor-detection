@@ -20,6 +20,7 @@ My environment is `cuda11.6`.
 `export PATH=/usr/local/cuda-11.6$PATH`
 
 `export LD_LIRBRARY_PATH=/usr/local/cuda-11.6`
+
 3. Save the content to exit, enter `source ~/.bashrc` to make the environment take effect.
 4. Insert `nvcc -V`to look up the cuda tooltik.
 
