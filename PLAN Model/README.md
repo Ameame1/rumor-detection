@@ -9,7 +9,7 @@ For specific environments, see the .yaml file
 
 
 ## CUDA
-First go to `https://developer.nvidia.com/cuda-11.6.0-download-archive` download CUDA Toolkit.
+First go to `https://developer.nvidia.com/cuda-11.1.1-download-archive` download CUDA Toolkit.
 
 Enter `nvcc -V` in the terminal to see the CUDA version.
 
@@ -23,22 +23,24 @@ My environment is `cuda11.6`.
 
 3. Save the content to exit, enter `source ~/.bashrc` to make the environment take effect.
 4. Insert `nvcc -V`to look up the cuda tooltik.
-pip install torch==1.7.1
 
-pip3 install torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cu116         (cuda116)
+After finish that:
+
+`pip install torch==1.8.1+cu111 torchvision==0.9.1+cu111 -f https://download.pytorch.org/whl/cu111/torch_stable.html`
+
 
 *All installation packages can be found in the folder Env*
 
 ## Check cuda is available.
-import torch
+`import torch`
 
-print(torch._version_)
+`print(torch._version_)`
 
-print(torch.cuda.is_available())
+`print(torch.cuda.is_available())`
 
-1.7.1
+`1.8.1+cu111`
 
-True
+`True`
 
 *If the output is used above, it proves that CUDA is available*
 

@@ -41,3 +41,38 @@ https://drive.google.com/file/d/1wds1SVweGzKOfx-vaw15ouIbSLsOva_v/view?usp=share
 For specific environments, see the .yaml file
 
 -------------
+## CUDA
+First go to `https://developer.nvidia.com/cuda-11.1.1-download-archive` download CUDA Toolkit.
+
+Enter `nvcc -V` in the terminal to see the CUDA version.
+
+My environment is `cuda11.1`.
+1. Edit the `~/.bashrc` file
+2. Change the PATH and LD_LIBRARY_PATH environment variables
+
+`export PATH=/usr/local/cuda-11.1$PATH`
+
+`export LD_LIRBRARY_PATH=/usr/local/cuda-11.1`
+
+3. Save the content to exit, enter `source ~/.bashrc` to make the environment take effect.
+4. Insert `nvcc -V`to look up the cuda tooltik.
+
+
+After finish that:
+
+`pip install torch==1.10.1+cu111 torchvision==0.11.2+cu111 torchaudio==0.10.1 -f https://download.pytorch.org/whl/cu111/torch_stable.html`
+
+*All installation packages can be found in the folder Env*
+
+## Check cuda is available.
+`import torch`
+
+`print(torch._version_)`
+
+`print(torch.cuda.is_available())`
+
+`1.10.1+cu111`
+
+`True`
+
+*If the output is used above, it proves that CUDA is available*
