@@ -2,6 +2,11 @@
 
 ## Follow each of these steps to check your configuration
 
+## Dataset
+https://www.dropbox.com/sh/w3bh1crt6estijo/AAD9p5m5DceM0z63JOzFV7fxa?dl=0
+
+glove word vector: https://drive.google.com/file/d/19t9-sihELSk0Asf-EFAOCb9WfyPgtRMu/view
+
 ## Env
 For specific environments, see the .yaml file
 
@@ -43,11 +48,6 @@ After finish that:
 `True`
 
 *If the output is used above, it proves that CUDA is available*
-
-## Dataset
-https://www.dropbox.com/sh/w3bh1crt6estijo/AAD9p5m5DceM0z63JOzFV7fxa?dl=0
-
-glove word vector: https://drive.google.com/file/d/19t9-sihELSk0Asf-EFAOCb9WfyPgtRMu/view
 
 ## Common error reports
 
