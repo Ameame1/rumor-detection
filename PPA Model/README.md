@@ -46,7 +46,7 @@ First go to `https://developer.nvidia.com/cuda-11.1.1-download-archive` download
 
 Enter `nvcc -V` in the terminal to see the CUDA version.
 
-My environment is `cuda11.1`.
+My PPA environment is `cuda11.1`.
 1. Edit the `~/.bashrc` file
 2. Change the PATH and LD_LIBRARY_PATH environment variables
 

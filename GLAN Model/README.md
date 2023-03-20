@@ -13,7 +13,7 @@ First go to `https://developer.nvidia.com/cuda-11.6.0-download-archive` download
 
 Enter `nvcc -V` in the terminal to see the CUDA version.
 
-My environment is `cuda11.6`.
+My GLAN environment is `cuda11.6`.
 1. Edit the `~/.bashrc` file
 2. Change the PATH and LD_LIBRARY_PATH environment variables
 
