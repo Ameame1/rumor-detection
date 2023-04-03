@@ -33,7 +33,7 @@ https://docs.google.com/document/d/1Y4V6_wrUUMPtHO0JWvLlPT340NoeNnr0zs1ol1523zI/
 
 If anyone can not config settings successfully, you can download my Anaconda Env files.
 
-After that, unzip file and copy it to Anaconda/Env folder.
+After that, unzip file and copy it to `Anaconda/Env` folder.
 
 **GLAN**: https://drive.google.com/file/d/1XEYlC7HdmoLDC0vu0rmbhUyeFywzfhKx/view?usp=share_link
 
