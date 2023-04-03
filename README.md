@@ -28,3 +28,13 @@ covid weibo dataset: https://github.com/saa51/Covid-19-weibo-rumor-dataset
 ## Real-time updated tables for Ame's rumor research
 
 https://docs.google.com/document/d/1Y4V6_wrUUMPtHO0JWvLlPT340NoeNnr0zs1ol1523zI/edit?usp=sharing
+
+## Anaconda Env
+
+If anyone can not config settings successfully, you can download my Anaconda Env files.
+
+After that, unzip file and copy it to Anaconda/Env folder.
+
+**GLAN**: https://drive.google.com/file/d/1XEYlC7HdmoLDC0vu0rmbhUyeFywzfhKx/view?usp=share_link
+
+**PPA**: https://drive.google.com/file/d/1K4Ut7NTc9Rm76FKzPKgK4bNfOT_qwhYf/view?usp=share_link
