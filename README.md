@@ -1,4 +1,6 @@
 # Rumor-Detection Documentation
+[![Figure/UWA.png](Figure/UWA.png)](https://www.rdi.uwa.edu.au/innovations-in-action)
+## Supervised by [**___Dr. JinHong___**](https://research-repository.uwa.edu.au/en/persons/jin-hong)
 ## Table of Contents
 
 - [GLAN Model](#glan-model)
@@ -518,6 +520,10 @@ https://docs.google.com/document/d/1Y4V6_wrUUMPtHO0JWvLlPT340NoeNnr0zs1ol1523zI/
 **2-label Data**
 
 https://docs.google.com/document/d/1eMzZLAdSBglXRhuK5An68221Sv2D4jyiKz1xphOI7wQ/edit?usp=sharing
+
+## Exploring Out-of-Domain Performance in Rumor Detection Models
+
+https://github.com/Ameame1/Rumor-Out-of-Domain-Exploring-Method
 
 ## Author
 ### Ame Liu
