@@ -25,28 +25,15 @@
   - [Train Model](#train-model)
   
 - [Essay](#essay)
-  - [GLAN](#glan)
-  - [PLAN](#plan)
-  - [PPA](#ppa)
-  
+
 - [Anaconda Env](#anaconda-env)
-  - [GLAN](#glan-1)
-  - [PLAN](#plan-1)
-  - [PPA](#ppa-1)
-  
+
 - [Research Logs](#research-logs)
-  - [Log-1](#log-1)
-  - [Log-2](#log-2)
-  - [Log-3](#log-3)
-  - [Log-4](#log-4)
-  - [Log-5](#log-5)
-  
+
 - [Experiment Results](#experiment-results)
-  - [Initial Data](#initial-data)
-  - [2-label Data](#2-label-data)
-  
+
 - [Author](#author)
-  - [Ame Liu](#ame-liu)
+
 
 ## GLAN Model
 
