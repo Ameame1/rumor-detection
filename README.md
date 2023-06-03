@@ -490,19 +490,24 @@ After that, unzip file and copy it to `Anaconda/Env` folder.
 _These journals record some of the explorations and ongoing discoveries of my research._
 
 
-[1] Log-1
+**[1] Log-1**
+
 https://docs.google.com/document/d/1J3ds9t9AVhWc1-yS0qWNCL7c5mk4htvVDQP0hMmLurc/edit?usp=sharing
 
-[2] Log-2
+**[2] Log-2**
+
 https://docs.google.com/document/d/1MqqaPN2yyNCqYchef9Rp4jxLqTOMEwMhSI2720HJSgY/edit?usp=sharing
 
-[3] Log-3
+**[3] Log-3**
+
 https://docs.google.com/document/d/1b7XhMxdSiJBcyi_t8At_zfyyQa8LJ3QFw2ELAqnvcJs/edit?usp=sharing
 
-[4] Log-4
+**[4] Log-4**
+
 https://docs.google.com/document/d/1HWcbEVxvZapyKo1G2okZOZ35DmxiheiCuO0R2_ItuMA/edit?usp=sharing
 
-[5] Log-5
+**[5] Log-5**
+
 https://docs.google.com/document/d/1mnCFlGI6EMH_l9v26BviOO7xud4Ih8h_G49-n5o_QOM/edit?usp=sharing
 
 ## Experiment Results
