@@ -1,4 +1,0 @@
-splits = [{"train" : ["CH", "SS"], "test" : ["OS"]},
-          {"train" : ["CH", "OS"], "test" : ["SS"]},
-          {"train" : ["SS", "OS"], "test" : ["CH"]},
-          {"train" : ["CH", "SS", "OS"], "test" : ["GC"]}]
