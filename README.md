@@ -1,5 +1,52 @@
-# Rumor-Detection Research 
+# Rumor-Detection Documentation
+## Table of Contents
 
+- [GLAN Model](#glan-model)
+  - [Env](#env)
+  - [CUDA](#cuda)
+  - [Dataset](#dataset)
+  - [Train Models](#train-models)
+  
+- [PLAN Model](#plan-model)
+  - [Dataset](#dataset-1)
+  - [Env](#env-1)
+  - [CUDA](#cuda-1)
+  - [Check CUDA availability](#check-cuda-availability)
+  - [Common error reports](#common-error-reports)
+  - [Train Models](#train-models-1)
+  - [Save Model](#save-model)
+  
+- [PPA Model](#ppa-model)
+  - [Dataset](#dataset-2)
+  - [Env](#env-2)
+  - [CUDA](#cuda-2)
+  - [Check CUDA availability](#check-cuda-availability-1)
+  - [Common error reports](#common-error-reports-1)
+  - [Train Model](#train-model)
+  
+- [Essay](#essay)
+  - [GLAN](#glan)
+  - [PLAN](#plan)
+  - [PPA](#ppa)
+  
+- [Anaconda Env](#anaconda-env)
+  - [GLAN](#glan-1)
+  - [PLAN](#plan-1)
+  - [PPA](#ppa-1)
+  
+- [Research Logs](#research-logs)
+  - [Log-1](#log-1)
+  - [Log-2](#log-2)
+  - [Log-3](#log-3)
+  - [Log-4](#log-4)
+  - [Log-5](#log-5)
+  
+- [Experiment Results](#experiment-results)
+  - [Initial Data](#initial-data)
+  - [2-label Data](#2-label-data)
+  
+- [Author](#author)
+  - [Ame Liu](#ame-liu)
 
 ## GLAN Model
 
@@ -450,3 +497,36 @@ After that, unzip file and copy it to `Anaconda/Env` folder.
 **PLAN**: https://drive.google.com/file/d/1T2iczGtxvWPnTG5sKwIZ0-zPxkND0kOD/view?usp=sharing
 
 **PPA**: https://drive.google.com/file/d/1chHpT438zq5PAV4LQhPljMMKq4ruXvya/view?usp=sharing
+
+## Research Logs
+
+_These journals record some of the explorations and ongoing discoveries of my research._
+
+
+[1] Log-1
+https://docs.google.com/document/d/1J3ds9t9AVhWc1-yS0qWNCL7c5mk4htvVDQP0hMmLurc/edit?usp=sharing
+
+[2] Log-2
+https://docs.google.com/document/d/1MqqaPN2yyNCqYchef9Rp4jxLqTOMEwMhSI2720HJSgY/edit?usp=sharing
+
+[3] Log-3
+https://docs.google.com/document/d/1b7XhMxdSiJBcyi_t8At_zfyyQa8LJ3QFw2ELAqnvcJs/edit?usp=sharing
+
+[4] Log-4
+https://docs.google.com/document/d/1HWcbEVxvZapyKo1G2okZOZ35DmxiheiCuO0R2_ItuMA/edit?usp=sharing
+
+[5] Log-5
+https://docs.google.com/document/d/1mnCFlGI6EMH_l9v26BviOO7xud4Ih8h_G49-n5o_QOM/edit?usp=sharing
+
+## Experiment Results
+**Initial Data**
+
+https://docs.google.com/document/d/1Y4V6_wrUUMPtHO0JWvLlPT340NoeNnr0zs1ol1523zI/edit?usp=sharing
+
+**2-label Data**
+
+https://docs.google.com/document/d/1eMzZLAdSBglXRhuK5An68221Sv2D4jyiKz1xphOI7wQ/edit?usp=sharing
+
+## Author
+### Ame Liu
+[<img src="Figure/Email.png" alt="image" width="">](mailto:22910358@student.uwa.edu.au)
