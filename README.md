@@ -337,6 +337,33 @@ This is the list functions for this jupyter notebook file:
 
 **PS: Since the PLAN model is based on TensorFlow, the training time is very long, but the testing phase does not take very long.**
 
+### Trained Models
+Label-2-Twitter15 Model:
+
+https://drive.google.com/file/d/1EMwaqLXl4vO8whp5dEjjjWJ5a1QA2j-Z/view?usp=sharing
+
+Label-2-Twitter16 Model:
+
+https://drive.google.com/file/d/1fe4am7CbS3cncivr3a7HDfbTeqz_NtJ9/view?usp=sharing
+
+Label-2-Pheme Model:
+
+https://drive.google.com/file/d/1-2ZNnEe0zX_Do30t7caZs5-Ubw7Ohi-d/view?usp=sharing
+
+Weibo Model:
+
+https://drive.google.com/file/d/1jsCY2BJAMbo37TyVSdZk_vmxfQiuj1Ii/view?usp=sharing
+
+Twitter15 Model:
+
+https://drive.google.com/file/d/1iQr9aCAMomR3fApE-5_zJbiFBw76c58T/view?usp=sharing
+
+Twitter16 Model:
+
+https://drive.google.com/file/d/1CgDYIRhG3ZqZ6ZVyowvhNNu0V4sM22J3/view?usp=sharing
+
+Pheme Model:
+
 
 
 ## PPA Model
